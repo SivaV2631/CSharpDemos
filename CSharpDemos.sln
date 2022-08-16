@@ -7,31 +7,36 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_HelloWorld", "cs_con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Console", "cs_con_Console\cs_con_Console.csproj", "{262D3475-F6CA-4C2C-B2CF-3A6F7FAD5C7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeDemo", "PalindromeDemo\PalindromeDemo.csproj", "{2935BBFD-708B-443D-8D78-0DA3DB5F9E2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeDemo", "PalindromeDemo\PalindromeDemo.csproj", "{2935BBFD-708B-443D-8D78-0DA3DB5F9E2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapDemo", "SwapDemo\SwapDemo.csproj", "{D1439FAC-9297-403C-BEFE-4FBB3A1B5E73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapDemo", "SwapDemo\SwapDemo.csproj", "{D1439FAC-9297-403C-BEFE-4FBB3A1B5E73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameDate", "NameDate\NameDate.csproj", "{153507CB-9968-4E70-BDCC-5A50DC519C0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NameDate", "NameDate\NameDate.csproj", "{153507CB-9968-4E70-BDCC-5A50DC519C0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringLenDemo", "StringLenDemo\StringLenDemo.csproj", "{F8C4FA3F-7C45-44A2-AEFC-105398A53959}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringLenDemo", "StringLenDemo\StringLenDemo.csproj", "{F8C4FA3F-7C45-44A2-AEFC-105398A53959}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToIntDemo", "ConvertToIntDemo\ConvertToIntDemo.csproj", "{A713D0A9-B20C-4CDD-B8CE-855FABC912F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertToIntDemo", "ConvertToIntDemo\ConvertToIntDemo.csproj", "{A713D0A9-B20C-4CDD-B8CE-855FABC912F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeNumbersDemo", "PrimeNumbersDemo\PrimeNumbersDemo.csproj", "{ADAA9BDB-1905-4F46-9C2E-060375A165A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimeNumbersDemo", "PrimeNumbersDemo\PrimeNumbersDemo.csproj", "{ADAA9BDB-1905-4F46-9C2E-060375A165A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenDemo", "OddEvenDemo\OddEvenDemo.csproj", "{3B1BAD87-3B46-409C-B2D3-C95C6F61A12D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenDemo", "OddEvenDemo\OddEvenDemo.csproj", "{3B1BAD87-3B46-409C-B2D3-C95C6F61A12D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_MethodParameters", "cs_con_MethodParameters\cs_con_MethodParameters.csproj", "{39E40260-379E-4F60-A8B0-0C39C779D8C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_MethodParameters", "cs_con_MethodParameters\cs_con_MethodParameters.csproj", "{39E40260-379E-4F60-A8B0-0C39C779D8C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_Arrays", "cs_con_Arrays\cs_con_Arrays.csproj", "{2858D674-6747-4260-B745-8F993BB2E7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_Arrays", "cs_con_Arrays\cs_con_Arrays.csproj", "{2858D674-6747-4260-B745-8F993BB2E7B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_BoxingUnBoxing", "cs_con_BoxingUnBoxing\cs_con_BoxingUnBoxing.csproj", "{D6D82F6E-B001-4D29-8A66-554B0AC804A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_BoxingUnBoxing", "cs_con_BoxingUnBoxing\cs_con_BoxingUnBoxing.csproj", "{D6D82F6E-B001-4D29-8A66-554B0AC804A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_ArrayList", "cs_con_ArrayList\cs_con_ArrayList.csproj", "{721C2370-9240-47B7-B2B5-C6D544BA7F80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_ArrayList", "cs_con_ArrayList\cs_con_ArrayList.csproj", "{721C2370-9240-47B7-B2B5-C6D544BA7F80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_ValueTypes", "cs_con_ValueTypes\cs_con_ValueTypes.csproj", "{CDDF4311-2B99-47F5-A783-FCF5D7C27726}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_ValueTypes", "cs_con_ValueTypes\cs_con_ValueTypes.csproj", "{CDDF4311-2B99-47F5-A783-FCF5D7C27726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cs_con_ReferenceTypes", "cs_con_ReferenceTypes\cs_con_ReferenceTypes.csproj", "{B8F22CD0-2BCB-4D8D-B3A8-1C4CEF4CE7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cs_con_ReferenceTypes", "cs_con_ReferenceTypes\cs_con_ReferenceTypes.csproj", "{B8F22CD0-2BCB-4D8D-B3A8-1C4CEF4CE7BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB5BC63D-D702-4304-9AB2-A4DC42B57042}"
+	ProjectSection(SolutionItems) = preProject
+		Sequence.txt = Sequence.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
