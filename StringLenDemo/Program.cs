@@ -8,8 +8,8 @@ namespace StringLenDemo
         {
             Console.Write("Enter  empty String :");
             string empty = Console.ReadLine();
-            Console.WriteLine(empty);
-            Console.WriteLine("String Length = " + empty.Length);
+            Console.WriteLine(empty);   //printing string
+            Console.WriteLine("String Length = " + empty.Length);   //printing String Length
         }
     }
 }
