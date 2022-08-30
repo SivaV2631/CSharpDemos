@@ -25,7 +25,7 @@ namespace cs_con_ArrayList
             int[] arr = intList[5] as int[];
             int secondItem = arr[1];
             Console.WriteLine(secondItem);
-            Console.WriteLine((intList[5] as int[])[1]);
+            //Console.WriteLine((intList[5] as int[])[1]);
 
             Console.WriteLine("Length of the array: {0}", arr.Length);
             Console.WriteLine("Length of ArrayList after adding the array using Add: {0}", intList.Count);       // 6
