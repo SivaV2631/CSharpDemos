@@ -41,7 +41,7 @@ namespace cs_con_INotifyPropertyChanged
             }
         }
 
-
+         
         private decimal _salary;
         public decimal Salary
         {

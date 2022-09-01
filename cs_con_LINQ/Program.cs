@@ -149,6 +149,7 @@ namespace cs_con_LINQ
                      select e;
             foreach (var e in q4)           // LINQ Query will execute here!
             {
+                
             }
 
             Employee thirdEmployee = (from e in employees
@@ -159,6 +160,7 @@ namespace cs_con_LINQ
             }
 
             bool doesSharmaExist = employees.Any(e => e.Name == "Sharma");
+             var demo = from e in employees /*orderby e.Name*/ where e.Name == "sharma" select e;       // --added by siva
 
 
             var paginatedEmployees1 = (from e in employees
@@ -176,7 +178,7 @@ namespace cs_con_LINQ
                       };
             foreach (var item in q5a)            // executes the LINQ query
             {
-
+               
             }
             var q5b = employees
                         .Select(e => new {

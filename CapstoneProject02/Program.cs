@@ -16,7 +16,7 @@ namespace CapstoneProject02
             Console.WriteLine("------------------------------------------");
             Console.WriteLine("-----------------------------------------------------");
 
-            bool flag = false;
+            bool flag; 
             Console.Write("Enter User Name : ");
             string username = Console.ReadLine();
             Console.Write("Enter Password :");
@@ -68,6 +68,7 @@ namespace CapstoneProject02
             }
 
         }
+       
 
 
     }

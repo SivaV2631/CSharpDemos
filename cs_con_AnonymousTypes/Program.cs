@@ -10,7 +10,7 @@ namespace cs_con_AnonymousTypes
     {
         static void Main(string[] args)
         {
-            //  DemoOfTypeInference();
+            // DemoOfTypeInference();
 
             DemoOfAnonymousType();
         }

@@ -13,13 +13,6 @@ namespace CapstoneProject02
         private static int Counter;
 
 
-
-
-
-
-
-
-
         static Customer()
         {
             Customer.CustomerIdCounter = 0;
