@@ -1,3 +1,4 @@
+<pre>
 Sequence of the projects for learning purposes:
 
 01 cs_con_HelloWorld
@@ -39,3 +40,4 @@ Sequence of the projects for learning purposes:
 34 cs_con_Parallel
 35 cs_con_Tasks
 36 cs_con_Tasks_AsyncAwait
+</pre>
