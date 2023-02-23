@@ -21,20 +21,16 @@ namespace CapstoneProject_02
             Console.WriteLine("------------------");
             Console.Write("\nEnter your username:");
             string myName = Console.ReadLine();
-            Console.WriteLine("Welcome! {0} to the Library.....!", myName);
-
             Console.WriteLine("\n Enter your password:");
             string myPassword = Console.ReadLine();
             
-
-
             if (myName=="siva"  && myPassword == "pass")
             {
                 Console.Clear();
 
                 while (isTrue)
                 {
-
+                    Console.WriteLine("_______________________________________________________");
                     Console.WriteLine("*              Main Menu                     *"); 
                     Console.WriteLine("--------------------------------------------------------");
                     Console.WriteLine("|------------------------------------------|");
@@ -140,7 +136,7 @@ namespace CapstoneProject_02
             Console.WriteLine("Enter Book ID:");
             borrowing.borrowBookID = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Number of Books want to borrow:");
+            Console.WriteLine("Number of Books to borrow:");
             borrowing.borrowCount = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Enter Address:");
@@ -284,6 +280,7 @@ namespace CapstoneProject_02
                    "Book Price\t" +
                    "Book Available\t" +
                    "Total Book Added");
+            
             foreach (Books show in bookList)
             {
                 Console.WriteLine("{0} {1,15} {2,20} {3,20} {4,20}", show.bookID, show.bookName, show.bookPrice, show.bookCount, show.numberOfBookX);

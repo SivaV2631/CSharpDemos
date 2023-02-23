@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait_TaskDemo", "Asyn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstoneProject_02", "CapstoneProject_02\CapstoneProject_02.csproj", "{5DCC40FC-7520-44A3-9A2D-9AD0D146FA2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{088099F3-72A7-48DE-84A7-52C5AFE1503D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -519,6 +521,10 @@ Global
 		{5DCC40FC-7520-44A3-9A2D-9AD0D146FA2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DCC40FC-7520-44A3-9A2D-9AD0D146FA2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DCC40FC-7520-44A3-9A2D-9AD0D146FA2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{088099F3-72A7-48DE-84A7-52C5AFE1503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088099F3-72A7-48DE-84A7-52C5AFE1503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088099F3-72A7-48DE-84A7-52C5AFE1503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088099F3-72A7-48DE-84A7-52C5AFE1503D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
