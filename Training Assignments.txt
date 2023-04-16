@@ -1,0 +1,445 @@
+DATE-08/08/2022 (DAY 6)
+
+Assignment-01
+1. Need to build CV using Div Tag. 
+2. Build e-library of books with book details (anchor tag, table) 
+3. Build web page with sign up details like username ,password, date of birth, Gender, Hobbies etc.
+ 4. Image grid , You can any single out of grid of images
+
+Assignment 2:
+1.	Display name, age via user defined object in JavaScript with html. (Also via constructor)
+2.	Create two buttons following the scenario: one button will show image and one button will hide
+3.	There is an Employee Management System in your organization, you have to design a registration form for this system with proper validations where User Name cannot be blank, 
+	Mobile number must be in +91-1234567890 format, Email id should be in proper format, Password should be at least 8 characters and it must contain numeric values, 
+	password and confirm password must be matched. Provide the validations using JavaScript
+4.	Print current month from current year using switch (in JS)
+
+---------------------------------------------------------------------------------------------------------------------------
+DATE-09/08/2022 (DAY 7)
+
+Assignment 1:
+1.	Do the practice of HTML exercises on W3Schools.
+2.	Cover HTML Forms.
+3.	Do the practice of CSS tutorial.
+4.	Understanding of JavaScript Functions.
+
+---------------------------------------------------------------------------------------------------------------------
+CAPSTRONE PROJECT
+
+1. Quiz (w3schools.com) 
+2. Portfolio 
+3. Home Page of an Educational Institution <------ 
+4. Login / Registration
+Showcase HTML5, CSS3 and JavaScript skills
+
+------------------------------------------------------------------------------------------------------------------
+DATE-12-08-2022
+
+ASSIGNMENT-01
+1.	Modify your .NET frameworks in visual studio IDE.
+2.	Build one demo console c# application in visual studio IDE.
+3.	Explore Solution explorer and server explorer in visual studio IDE.
+4.	Make a console application to perform palindrome program.
+5.	Make a console application to perform swapping of two variables without using third variable.
+
+ASSIGNMENT-02
+1.	Enhance the application to prompt the user for their name and display it along with the date and time.
+2.	Perform an example of using an empty string and print length of the string.
+3.	Make a console application to get user input from user and convert it to integer.
+4.	Make a console application to print prime numbers.
+5.	Make a console application to check number entered by the user is Odd or even.
+
+---------------------------------------------------------------------------------------------------------------------
+DATE- 16-08-2022
+
+ASSIGNMENT-01
+Assignment:
+1.	Make a console application to show difference between structure and class/ value-type and reference type.
+2.	Perform printing square root of given number using pass by value and pass by reference and pass by out.
+3.	Perform an example using tryParse function. (Factory method pattern)
+
+ASSIGNMENT-02
+(example)
+Product
+	ProductId			(user input) using ArrayList and take input and print the input as below
+	ProductName			
+	Quantity
+	Price
+
+
+ProductId	ProductName	Quantity	Price
+1		Rice		50		$50.75
+2		Wheat		500		$80.00
+3		Sugar		50		$75.20
+q)Design a simple application to ask the user "Number of Products" and receive the details of these Products as Input Values, and finally display a list of all the products entered by the user
+	a)ask the user "number of products"
+	b)recieve the details of these products as input values
+	c)print the output 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DATE-17-08-2022
+ASSIGNMENT-01
+1.	Read and print elements of array in C# .NET.
+2.	Implement single dimension array and double dimension array for any example.
+3.	Implement ArrayList for any example.
+
+---- Assignment 02
+
+1.Class called Shop
+	- Aggregated Collection of Products	(aggregate - object inside object)			 //it is private
+		- Product Id, Product Name, Quantity, Price
+Shop
+[1] Add Product (Product Id should be auto-generated)
+[2] Remove Product
+[3] Display All Products
+[0] Exit
+
+Display all Products
+	ProductID, ProductName, Quantity, Price, Cost (Quantity * Price) 		//cost shuld be in displaying only
+
+
+use all this -DataField, Properties, Method, Constructor, Indexer
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+DATE 18-08-2022
+ASSIGNMENT-01
+2.	Make a program to perform an encapsulation.
+3.	How we can perform Inheritance in .NET?
+4.	Make a program to print addition of two numbers using parameterized constructor and show constructor overloading.
+5.	Using the above definition, show the implementation of static constructor.
+
+ASSIGNMENT-02
+Shop, Product
+
+IComparable = Sorting should be on ProductName
+IEnumerator = Shop expose products information
+IEnumerable = Shop expose products information
+---------------------------------------------------------------------------------------------------------------------------------------
+DATE- 22-08-2022
+ASSIGNMENT-01
+
+1.	Perform abstraction using any example. 
+2.	Perform Aggregation on objects.
+3.	Define a class heirarchy  	-Geometric Symbols 		-Quadrilaterals 			+Square 			+Rectange 		-Triangles 		-Round Symbols 			+Circle 			+Oval Two
+Functions:
+    - Area     - Perimeter/Circumferance
+Apply all the concepts like inheritance, encapsulation, polymorphism, etc. 
+4. Redefine the above project - using Interfaces.
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+DATE-23-08-2022
+ASSIGNMENT-01
+
+1. Make a calculator using Delegates in C#.
+2. Make a program for animal category using Generics concept in C#.
+3. Make a program to show use of destructor.
+4. Implement the concept of interface using an example of converting user input into uppercase.
+
+ASSIGNMENT-02(no marks)
+1. Perform Type-casting: Implicit & Explicit with an example.
+2. Perform an example using “As” type casting operator.
+3. Make a program to print Fibonacci series using IEnumerable Interface concept.
+
+-------------------------------------------------------------------------------------------------------------------
+CAPSTONE PROJECT-02
+	 Library Management System
+1. Librarian 2. Borrower 3. Exit
+---------------------------------------------------------------------------------------------------------------------------
+DATE-24-08-2022 (DAY -16)
+Assignment-01
+
+1. Define a class "salary" which will contain member variable Basic, TA, DA, HRA.
+ Write a program using Constructor with default values for DA and HRA and calculate the salary of employee.
+
+2. Write a program to create a delegate called TrafficDel and a 
+			class called TrafficSignal with the following delegate methods. 
+Public static void Yellow() { Console.WriteLine(“Yellow Light Signal To Get Ready”); } 
+Public static void Green() { Console.WriteLine(“Green Light Signal To Go”); } 
+Public static void Red() { Console.WriteLine(“Red Light Signal To Stop”); }
+ Also include a method IdentifySignal() to initialize an array of delegate with the above methods and a
+	       method show() to invoke members of the above array.
+
+
+------------------------------------------------------------------------------------------------------------------------------
+Day 21:
+Date: 29-08-2022
+Assignment:
+1.	Perform array sorting using LINQ.
+2.	Show working of Synchronous & Asynchronous concepts using threads for any scenario.
+3.	Perform arithmetic operations example using Lambda expressions.
+4.	Perform an example to print student details using anonymous types.
+5.	Perform an example using AsyncAwait.
+6.	How we can use INotifyCollectionchanged interface in C#?
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+DATE-02-09-2022
+1.	Make a home page for any e-commerce website using ASP.NET web concepts. 
+2.	Host your employee registration form website with validations in ASP.NET MVC.
+
+DATE-05-09-2022
+1.	Host your employee registration form website with validations in ASP.NET MVC.
+2.	Define Data Model for "Product", and generate the table in the database using EF Core Data Migrations.
+
+DATE-06-09-2022
+3.	Define Data Model for "Product", and generate the table in the database using EF Core Data Migrations. Adding to this, define data model for Product Category and define relationships for the constraints.
+
+DATE-07-09-2022
+1.	Try to modify User interface. Complete exercises of bootstrap on w3schools. 
+2.	Make a website using bootstrap and also connect with database.
+
+DATE-09-09-2022
+1.	Try to modify User interface. Complete exercises of bootstrap on w3schools. 
+2.	Make a website using bootstrap and also connect with database.
+3.	Review all the automatically added files in C# project.
+4.	Perform duplicate-check while adding/editing the categories and the product.
+
+
+--------------------MAJOR PROJECT----------------------------
+
+JOB PORTAL -C#
+
+-------------------CAPSTONE PROJECT--------------------------
+
+RESTAURANT MANAGEMENT -ASP.NET MVC
+
+
+
+-----------------------------------------------------
+catId
+catname
+
+#region Navigation Properties to the transaction model - Item
+
+        public ICollection<Item> Items { get; set; }
+
+        #endregion
+
+custid
+custname
+custphno
+custemail
+custadd
+==================>order
+
+
+paymentid 
+paytype-------->cust,order
+=================================>order
+
+itemid
+itemname------------------>order,cust
+itemQuantity
+itemprice
+==============================>order
+
+
+
+tableid
+tablenumber=================================>1.orderid
+
+
+
+waiterid
+waitername
+
+
+
+
+
+orderid
+ordertype
+itemname------------fk(item.itemname)
+orderamount---------------------------------------------(item.price *item.quantity)
+orderdate
+customername----------fk(cust.customeerid)
+paymenttype------------fk(pay.paymentid)
+termsandcondition
+tablenumber------------fk(table.tablenumber)
+
+========================================================================
+1-usertype
+2-usertable
+3-account status
+4-currentjobstatus
+5-jobcategory
+6-country
+7-employee
+8-certificate
+9-Language
+10-education------------employee
+11-skill
+12-work experience----------employee
+13-job apply
+14-job apply status
+15-job
+16-company
+17-job status
+18-post job-------------user
+19-eventtable
+
+
+
+employee
+	-currentjobstatus
+	-country-------(-workexp)
+	-certificate
+	-Langyage
+	job apply----------(-jobapply)
+	-education
+	-skill
+	-work exp
+
+========================================================
+MYJobPORTAL\\
+
+1-usertype
+2-usertable
+3-account status
+///////4-currentjobstatus
+5-jobcategory
+6-country
+7-employee
+8-certificate
+9-Language
+10-education------------employee
+11-skill
+12-work experience----------employee
+13-job apply
+14-job apply status
+////////////15-job
+16-company
+17-job status
+jobNature
+JobRequirement
+jobrequirementdetail
+18-post job-------------user
+///////////19-eventtable
+------------new tables------------
+jobNature
+JobRequirement
+jobrequirementdetail
+===========notes================
+job status 
+	-statusmsg
+
+
+
+===================================
+
+UserTable
+	-password full min leng validation
+	-contact no vslidation
+	-acc stautus id to acc statusname
+job category
+	- Descprip minimum length
+country
+	-coutry code remove minlength
+employee
+	-photo url check
+	-attcah cv check 	-upload
+
+jobapplystatus
+jobapply
+
+
+Sample of BootStrap4 with Tab Control menu:
+https://codeshare.io/QnvWkx
+
+Try it on the Boostrap TryIt Editor:
+https://www.w3schools.com/bootstrap4/tryit.asp?filename=trybs_ref_js_tab-content&stacked=h
+
+	
+=============================	
+usertype
+usertable
+jobcategory
+company
+jobstatus
+jobnature
+jobrequirement
+jobreqdetail
+postjob
+ApplyJob
+
+
+=====================================================
+In Presentation :
+1. Name and project details
+2. Software details
+3. test cases : expected output and actual output
+
+
+
+
+Check out the [WithinSixYears] custom Attribute example in the below shown StackOverflow posting to see how to apply a RangeValidation to DateTime
+https://stackoverflow.com/questions/17321948/is-there-a-rangeattribute-for-datetime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
+
+Format Code- (ctrl+k + Ctrl+D)
+
+mailme@manojkumarsharma.com
+https://codeshare.io/9OnzqX
+
+
+CAPSTONE PROJECT SUBMISSION LINK
+--------------------------------------
+https://forms.office.com/r/LZeKENyJvC
+https://forms.office.com/r/XxFfJEqxwS
+
+FINAL PROJECT LINK-
+--------------------------------------------------------
+https://forms.office.com/r/anbNrWryGz
+------------------------------------------------------
+
+
+
+
+
+
+https://github.com/Contact4Manoj
+https://github.com/jashumsc  
+https://github.com/amol-RG001
+https://github.com/uday-deore
+
+
+LINK FOR LET US C BOOK :
+http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf
+
+
+
